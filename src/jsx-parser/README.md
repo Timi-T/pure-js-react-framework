@@ -27,6 +27,8 @@ In production, tools like **Babel** handle this parsing and compilation behind t
 
 ## 🗂️ Folder Structure
 
+```
+
 my-jsx-parser-project/
 ├── src/
 │ ├── jsx-parser/
@@ -40,6 +42,8 @@ my-jsx-parser-project/
 │ │ └── index.html # HTML shell for browser demo
 ├── package.json
 └── README.md
+
+```
 
 ---
 
