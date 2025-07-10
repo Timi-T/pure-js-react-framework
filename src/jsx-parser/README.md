@@ -1,4 +1,3 @@
-```md
 # 🧩 Build Your Own JSX Parser
 
 Welcome to the repository for **Building a JSX Parser from Scratch**, a learning-focused project that explores how JSX — the syntax extension behind React — is parsed and transformed into a valid DOM tree.
@@ -27,7 +26,6 @@ In production, tools like **Babel** handle this parsing and compilation behind t
 ---
 
 ## 🗂️ Folder Structure
-```
 
 my-jsx-parser-project/
 ├── src/
@@ -41,8 +39,6 @@ my-jsx-parser-project/
 ├── package.json
 └── README.md
 
-````
-
 ---
 
 ## 🚀 Getting Started
@@ -52,7 +48,7 @@ my-jsx-parser-project/
 ```bash
 git clone https://github.com/<your-username>/jsx-parser.git
 cd jsx-parser
-````
+```
 
 ### 2. Serve the `index.html` file
 
