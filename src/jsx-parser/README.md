@@ -33,6 +33,8 @@ my-jsx-parser-project/
 │ │ ├── index.js # Entry point for the parser
 │ │ ├── tokenParser.js # AST builder from tokens
 │ │ └── tokenizer.js # Converts JSX string into tokens
+│ ├── respond/
+│ │ └── index.js # Entry point for framework
 │ ├── webpage/
 │ │ ├── index.js # Renders parsed AST in the browser
 │ │ └── index.html # HTML shell for browser demo
@@ -210,7 +212,3 @@ Feel free to open an [issue](https://github.com/<your-username>/jsx-parser/issue
 MIT © Opeyemi Ogunbode
 
 ---
-
-```
-
-```

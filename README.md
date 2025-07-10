@@ -1,10 +1,9 @@
-```md
 # 🛠️ JSX Tools: Parser + React-like Framework (Respond)
 
 Welcome to the **JSX Tools** repository — a workspace containing two related projects:
 
-1. 🧩 [`jsx-parser`](./jsx-parser) — A step-by-step, from-scratch JSX parser that converts JSX syntax into an Abstract Syntax Tree (AST), and renders real DOM without using Babel or React.
-2. ⚛️ [`Respond`](./respond) — A lightweight **React-like UI framework** inspired by the internal structure of React, focused on building reusable components and managing reactive DOM rendering.
+1. 🧩 [`jsx-parser`](https://github.com/Timi-T/pure-js-react-framework/tree/main/src/jsx-parser) — A step-by-step, from-scratch JSX parser that converts JSX syntax into an Abstract Syntax Tree (AST), and renders real DOM without using Babel or React.
+2. ⚛️ [`Respond`](https://github.com/Timi-T/pure-js-react-framework/tree/main/src/respond) — A lightweight **React-like UI framework** inspired by the internal structure of React, focused on building reusable components and managing reactive DOM rendering.
 
 ---
 
@@ -17,6 +16,7 @@ Whether you're curious about how JSX is tokenized and parsed, or you're ready to
 ---
 
 ## 📁 Project Structure
+
 ```
 
 jsx-tools/
@@ -25,7 +25,7 @@ jsx-tools/
 ├── package.json
 └── README.md # ← You are here
 
-````
+```
 
 ---
 
@@ -41,7 +41,7 @@ This educational project demonstrates how JSX works behind the scenes. No Babel,
 ✅ Recursively renders DOM nodes
 ✅ Zero dependencies
 
-📖 [Read the JSX Parser Guide →](./jsx-parser/README.md)
+📖 [Read the JSX Parser Guide →](https://github.com/Timi-T/pure-js-react-framework/blob/main/src/jsx-parser/README.md)
 
 ---
 
@@ -58,7 +58,7 @@ Inspired by React's architecture, `Respond` is an experiment in building:
 
 🚧 **Still in early development.** Follow for updates and milestones.
 
-📖 [Coming Soon: Respond Documentation](./respond)
+📖 [Coming Soon: Respond Documentation](https://github.com/Timi-T/pure-js-react-framework/blob/main/src/respond)
 
 ---
 
@@ -80,7 +80,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/<your-username>/jsx-tools.git
 cd jsx-tools
-````
+```
 
 You can then dive into each folder (`jsx-parser` or `Respond`) independently.
 
@@ -108,8 +108,3 @@ Frontend Engineer | Systems Thinker | Web Enthusiast
 MIT © Opeyemi Ogunbode
 
 ---
-
-```
-
----
-```
